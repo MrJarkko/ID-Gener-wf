@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow xmlns="http://vmware.com/vco/workflow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://vmware.com/vco/workflow http://vmware.com/vco/workflow/Workflow-v4.xsd" root-name="item1" object-name="workflow:name=generic" id="117b2ee3-b947-4fa5-9661-0b9dffc65b77" version="0.0.3" api-version="3.1.0" allowed-operations="vfe" restartMode="1">
+    <display-name>Start work</display-name>
+
+    <position x="65.0" y="18.136363636363633"/>
+
+    <workflow-item name="item0" type="end" end-mode="0">
+        <position x="444.5" y="18.136363636363633"/>
+    </workflow-item>
+
+    <workflow-item name="item1" out-name="item0" type="link" linked-workflow-id="7082ce65-4eb4-4065-a556-7ecf97c05916">
+        <display-name>Generate IDs</display-name>
+
+        <in-binding/>
+
+        <out-binding/>
+
+        <position x="165.0" y="28.136363636363633"/>
+    </workflow-item>
+
+    <presentation/>
+</workflow>

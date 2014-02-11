@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package id="ff80808143b94a8e0144211ae0524251">
+    <name>org.company.Jarkko</name>
+    <description/>
+    <workflows>
+        <id-117b2ee3-b947-4fa5-9661-0b9dffc65b77 path="Jarkko test/Start work.workflow.xml"/>
+        <id-7082ce65-4eb4-4065-a556-7ecf97c05916 path="Jarkko test/Generate IDs.workflow.xml"/>
+    </workflows>
+    <actions/>
+    <configurations/>
+    <resources/>
+</package>
