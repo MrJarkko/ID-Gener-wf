@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package id="ff80808143b94a8e0144211ae0524251">
+<package id="ff80808145896a400145899a938d0030">
     <name>org.company.Jarkko</name>
     <description/>
     <workflows>
-        <id-117b2ee3-b947-4fa5-9661-0b9dffc65b77 path="Jarkko test/Start work.workflow.xml"/>
-        <id-7082ce65-4eb4-4065-a556-7ecf97c05916 path="Jarkko test/Generate IDs.workflow.xml"/>
+        <id-88a16dff-704a-4570-8731-4ec9d2b21336 path="com.bytelife.kaido/kaido/kaido.workflow.xml"/>
     </workflows>
     <actions/>
     <configurations/>
